@@ -4,5 +4,3 @@
 int ecole::creation (int date) {
 	return date;
 }
-
-
